@@ -1,2 +1,3 @@
 # Discord-ID-Scraper
-scrapes ID in a discord server
+
+> made by EX but he never publicized it
